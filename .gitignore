@@ -1,0 +1,33 @@
+# Dependencies
+web/node_modules/
+android/node_modules/
+
+# Next.js
+web/.next/
+web/out/
+web/next-env.d.ts
+
+# Android
+android/build/
+android/app/build/
+android/local.properties
+android/.gradle/
+android/.idea/
+android/*.iml
+android/captures/
+android/.externalNativeBuild
+android/app/*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Temp files
+web/public/temp/
